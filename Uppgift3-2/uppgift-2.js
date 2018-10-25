@@ -3,7 +3,7 @@
 // Har lagt 0 för att undvika NaN. 
 function triangel(a =0 ,b =0){   
     
-    return  Math.pow(a,2) + Math.pow(b,2) ; // Plussa ihop dem två kateterna
+    return  Math.pow(a,2) + Math.pow(b,2) ; // Plussar ihop de två kateterna
 
 }
 // De två heltal skickas till funktionen triangel.
