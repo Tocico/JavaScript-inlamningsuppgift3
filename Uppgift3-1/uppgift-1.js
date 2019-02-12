@@ -10,12 +10,12 @@ function Person(name,epost,mobil){
               
 }
 // Skapa en instans av en person() som lagrar den personens information
-let toshiko = new Person('Toshiko kuno', 'kunotoshiko17@gmail.com','0733-286333'); 
+let toshiko = new Person('Tocico', 'kufgffddd@gmail.com','0888-99999'); 
 // Skapa adress egenskaper
 toshiko.adress = {
-     gatuAdress : 'Skolgången4',
+     gatuAdress : 'Skol4',
      postNummer : 12345,
-     ort        :  'Sundbyberg',
+     ort        :  'solna',
 }
 console.log(toshiko.print());
 
